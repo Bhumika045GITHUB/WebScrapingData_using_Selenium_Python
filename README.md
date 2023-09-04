@@ -4,7 +4,7 @@
 
 🌱 Always in Learning something new!
 
-📫 Reach me at bhumikalalchandani321@gmail.com / http://linkedin.com/in/bhumika-lalchandani
+📫 Reach me at blalchandani357@gmail.com / http://linkedin.com/in/bhumika-lalchandani
 
 <!---
 Bhumika045GITHUB/Bhumika045GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
