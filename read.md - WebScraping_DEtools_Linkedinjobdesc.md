@@ -1,4 +1,6 @@
-<img width="501" alt="image" src="https://github.com/Bhumika045GITHUB/Bhumika045GITHUB/assets/63667709/a3ac9061-b6c4-4359-9439-ba4e740dfa13"><img width="501" alt="image" src="https://github.com/Bhumika045GITHUB/Bhumika045GITHUB/assets/63667709/56fee4d1-214e-4408-b549-8cd6956b4b4a">The code starts by importing the required libraries and modules. Here's what each import does:
+<img width="501" alt="image" src="https://github.com/Bhumika045GITHUB/Bhumika045GITHUB/assets/63667709/a3ac9061-b6c4-4359-9439-ba4e740dfa13">
+
+The code starts by importing the required libraries and modules. Here's what each import does:
 !pip install selenium: This is a shell command (the exclamation mark (!) at the beginning indicates that you are running this command in a shell or command-line interface, known as a terminal or command prompt) to install the Selenium library if it's not already installed. It uses the pip package manager to install the library.
 import selenium: Imports the Selenium library for web automation and scraping.
 from selenium import webdriver: Imports the webdriver class from Selenium, which allows you to control a web browser programmatically.
